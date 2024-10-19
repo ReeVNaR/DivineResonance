@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"E:/DivineResonance/Content/Level_1.umap",
 				"E:/DivineResonance/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"E:/DivineResonance/Content/RS/BP_MiniBoss1.uasset",
@@ -38,6 +39,9 @@
 				"E:/DivineResonance/Content/RS/BP_Enemy.uasset",
 				"E:/DivineResonance/Content/RS/Enemy_Walk.uasset",
 				"E:/DivineResonance/Content/RS/BP_EnemyMove.uasset"
+=======
+				"C:/Users/SAHIL/DR_3/Content/EF_Edie/Maps/DemoMap.umap"
+>>>>>>> 680632423e05539c330dfa4254b1141cadc6384e
 			]
 		}
 	]
