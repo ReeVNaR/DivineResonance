@@ -5,12 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"E:/DivineResonance/Content/RS/Bp_MiniENY.uasset",
 				"E:/DivineResonance/Content/Level_1.umap",
-				"E:/DivineResonance/Content/RS/BP_Enemy.uasset",
 				"E:/DivineResonance/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"E:/DivineResonance/Content/RS/Enemy_Walk.uasset",
-				"E:/DivineResonance/Content/RS/BP_EnemyMove.uasset",
 				"E:/DivineResonance/Content/RS/BP_MiniBoss1.uasset",
 				"E:/DivineResonance/Content/RS/MiniBoss1.uasset",
 				"E:/DivineResonance/Content/RS/BP_MiniBossWAlk1.uasset",
@@ -23,7 +19,15 @@
 				"E:/DivineResonance/Content/RS/Old_Man_Idle.uasset",
 				"E:/DivineResonance/Content/RS/Zombie_Punching.uasset",
 				"E:/DivineResonance/Content/RS/Zombie_Punching_Montage.uasset",
-				"E:/DivineResonance/Content/RS/Zombie_Running.uasset"
+				"E:/DivineResonance/Content/RS/Zombie_Running.uasset",
+				"E:/DivineResonance/Content/RS/Zombie_Attack__1_.uasset",
+				"E:/DivineResonance/Content/RS/Zombie_Attack__1__Montage.uasset",
+				"E:/DivineResonance/Content/RS/Zombie_Kicking.uasset",
+				"E:/DivineResonance/Content/RS/Zombie_Kicking_Montage.uasset",
+				"E:/DivineResonance/Content/RS/Bp_MiniENY.uasset",
+				"E:/DivineResonance/Content/RS/BP_Enemy.uasset",
+				"E:/DivineResonance/Content/RS/Enemy_Walk.uasset",
+				"E:/DivineResonance/Content/RS/BP_EnemyMove.uasset"
 			]
 		}
 	]
