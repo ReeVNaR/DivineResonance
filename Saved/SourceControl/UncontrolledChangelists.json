@@ -5,7 +5,16 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/SAHIL/DR_3/Content/EF_Edie/Maps/DemoMap.umap"
+				"C:/Users/SAHIL/DR_3/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/SAHIL/DR_3/Content/RS/BP_MiniBoss1.uasset",
+				"C:/Users/SAHIL/DR_3/Content/3D_Models/Woman/god2/BP_GOD2.uasset",
+				"C:/Users/SAHIL/DR_3/Content/3D_Models/Woman/god2/godd2.uasset",
+				"C:/Users/SAHIL/DR_3/Content/3D_Models/Woman/god2/godd2_Anim.uasset",
+				"C:/Users/SAHIL/DR_3/Content/3D_Models/Woman/god2/godd2_PhysicsAsset.uasset",
+				"C:/Users/SAHIL/DR_3/Content/3D_Models/Woman/god2/godd2_Skeleton.uasset",
+				"C:/Users/SAHIL/DR_3/Content/3D_Models/Woman/god2/Image_0.uasset",
+				"C:/Users/SAHIL/DR_3/Content/3D_Models/Woman/god2/Material_0.uasset",
+				"C:/Users/SAHIL/DR_3/Content/UI/Mainmenu.uasset"
 			]
 		}
 	]
