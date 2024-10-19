@@ -1898,3 +1898,6 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.10.19-02.27.16:764][102]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
 [2024.10.19-02.27.16:765][102]LogXGEController: Cleaning working directory: C:/Users/ranve/AppData/Local/Temp/UnrealXGEWorkingDir/
 [2024.10.19-02.27.16:767][102]LogPakFile: Destroying PakPlatformFile
+[2024.10.19-02.27.16:877][102]LogD3D12RHI: ~FD3D12DynamicRHI
+[2024.10.19-02.27.16:888][102]LogExit: Exiting.
+[2024.10.19-02.27.16:898][102]Log file closed, 10/19/24 07:57:16
