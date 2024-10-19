@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"E:/DivineResonance/Content/Characters/CharMovement/8_way/BP_Walk.uasset",
 				"E:/DivineResonance/Content/3D_Models/Woman/god2/UI/LineNotify.uasset",
 				"E:/DivineResonance/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
@@ -12,6 +13,16 @@
 				"E:/DivineResonance/Content/RS/BP_MiniBoss1.uasset",
 				"E:/DivineResonance/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
 				"E:/DivineResonance/Content/RS/Widget/BP_Spawner.uasset"
+=======
+				"C:/Users/SAHIL/DR_3/Content/RS/BP_MiniBoss1.uasset",
+				"C:/Users/SAHIL/DR_3/Content/RS/Punch.uasset",
+				"C:/Users/SAHIL/DR_3/Content/Level_1.umap",
+				"C:/Users/SAHIL/DR_3/Content/EF_Edie/houseinter_polySurface642.uasset",
+				"C:/Users/SAHIL/DR_3/Content/EF_Edie/houseinter_polySurface374.uasset",
+				"C:/Users/SAHIL/DR_3/Content/Level_2.umap",
+				"C:/Users/SAHIL/DR_3/Content/3D_Models/Woman/god2/UI/LineNotify.uasset",
+				"C:/Users/SAHIL/DR_3/Content/EF_Edie/polySurface757.uasset"
+>>>>>>> 592964b16611b5a686180303644a61cfaa09dc58
 			]
 		}
 	]
